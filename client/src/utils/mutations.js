@@ -48,6 +48,7 @@ export const SAVE_BOOK = gql`
                 description
                 image
                 link
+            }
         }
     }
 `;
